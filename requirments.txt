@@ -24,3 +24,6 @@ PyPDF2
 langchain-objectbox
 tf-keras
 langchain-huggingface
+pinecone-client
+pinecone-text
+pinecone-notebooks
